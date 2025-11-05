@@ -1,4 +1,4 @@
-/* rop_chain.c – 32 bytes total (4 gadgets × 8‑byte) */
+/* rop_chain.c – 32 bytes total (4 gadgets × 8‑byte) */
 #pragma once
 #include <stdint.h>
 
