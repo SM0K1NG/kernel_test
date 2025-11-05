@@ -1,3 +1,4 @@
+#CARACOLJS
 # Kernel Exploit - Escalacao de Privilegios via kmod
 
 **Target**: Kernel 6.8.0-86-generic #87-Ubuntu SMP PREEMPT_DYNAMIC
@@ -27,3 +28,4 @@ make clean && make
 - Este exploit escala privilegios e entrega um shell bash valido como root
 
 **Aviso**: Apenas para testes autorizados e bug bounty.
+
